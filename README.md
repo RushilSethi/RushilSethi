@@ -4,7 +4,7 @@
 
 I am a passionate **MERN Stack Developer** with a strong interest in design and clean UIs. I love building dynamic, responsive, and user-friendly web applications. Currently, I’m learning in **Next.js** and exploring more about scalable and secure backend architectures.
 
-- 🎓 **B.Tech in Computer Science** from Bhagwan Parshuram Institute of Technology, New Delhi.
+- 🎓 **B.Tech in Information Technology** from Bhagwan Parshuram Institute of Technology, New Delhi.
 - 🏢 **Technology Intern at NITI Aayog** – Conducted research on AI and cybersecurity and built a dynamic Power BI dashboard.
 - 📱 **Frontend Intern at Viser Techno Lifestyle** – Developed UI dashboards for internal use.
 - 📲 **Android Developer Intern at Delta Edge Technology Ventures** – Optimized key frontend pages and revamped the navigation for the DealDog app.
