@@ -1,4 +1,4 @@
-![Rushil Sethi](https://raw.githubusercontent.com/RushilSethi/RushilSethi/main/animated_name.svg)
+![Rushil Sethi](https://github.com/RushilSethi/RushilSethi/blob/main/animated_name.svg)
 
 ## 💻 About Me
 
@@ -22,5 +22,5 @@ I am a passionate **MERN Stack Developer** with a strong interest in design and 
 - 💌 [Email Me](mailto:rushilsethi333@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rushil-sethi-3aa3a1217/)
 
-![Rushil Sethi](https://raw.githubusercontent.com/RushilSethi/RushilSethi/main/bottom_header.svg)
+![Rushil Sethi](https://github.com/RushilSethi/RushilSethi/blob/main/bottom_header.svg)
 
